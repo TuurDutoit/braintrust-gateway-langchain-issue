@@ -9,7 +9,7 @@ The issue is caused by the Braintrust gateway returning a static `id` (e.g. `cha
 ## Reproduction
 
 ```bash
-npm install
+yarn install
 ```
 
 `repro-matrix.js` tests all combinations of model × gateway:
